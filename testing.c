@@ -1,6 +1,6 @@
 int main()
 {
-	printf('Chris is hot');
+	printf('Chris is cold');
 	return 0;  
 }
   
